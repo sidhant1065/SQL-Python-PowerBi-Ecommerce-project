@@ -1,0 +1,37 @@
+✅ Extra Beginner-Friendly Queries to Build Basics
+
+Extra Basic Queries
+
+1. What are the unique product categories available?
+
+2. How many sellers are there in the dataset?
+
+3. Find the number of orders per payment type.
+
+4. List the top 10 cities with the highest number of orders.
+
+5. Count the number of reviews with each rating (1 to 5).
+
+6. Find the earliest and latest order dates in the dataset.
+
+Extra Intermediate Queries
+
+1. Calculate average delivery time (from order to delivered date).
+
+2. Find the average review score by product category.
+
+3. Find top 5 product categories with highest return (if available).
+
+4. Analyze average payment value per order status.
+
+5. Identify the number of sellers with sales above a certain threshold.
+
+Extra Advanced Queries
+
+1. Predict average delivery time per region using historical data.
+
+2. Cluster customers based on total spending and number of orders.
+
+3. Analyze refund or cancellation patterns (if status column allows).
+
+4. Identify peak sales hours (if timestamp available).
